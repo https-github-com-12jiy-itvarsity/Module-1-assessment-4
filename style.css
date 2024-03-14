@@ -1,0 +1,39 @@
+body{
+margin:0%;
+padding:0%;
+font-family: Arial,
+
+
+  
+}
+table,th,td{
+width: 800px;
+margin: auto;
+font-size: 20px;
+padding: 20px;
+text-align: center;
+border: 2px solid#f7f9fb;
+border-collapse: collapse;
+
+}
+
+
+thead{
+    font-weight: bold;
+    color: #f3f8fb;
+    font-size: large;
+}
+
+table{
+    color: #f0f2f5;
+    background-image:url(https://wallpaperaccess.com/full/2063914.jpg)
+
+    
+
+
+    
+}
+body{
+    background-image:url(https://s.studiobinder.com/wp-content/uploads/2020/07/Highest-Grossing-Movies-of-All-Time-What-Makes-a-Blockbuster-Featured.jpg)
+}
+
